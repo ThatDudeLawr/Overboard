@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4043 MB
+    Driver:   24.21.13.9907
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.230 seconds
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\astan\Desktop\Ubisoft\Builds\OverboardPlusKeyboard\Overboard_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'TutorialManager') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 5.707778 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 1ca0 -> priority: 1 
+  Thread -> id: 2f68 -> priority: 1 
+  Thread -> id: 2090 -> priority: 1 
+  Thread -> id: 1eb8 -> priority: 1 
+  Thread -> id: 21d8 -> priority: 1 
+  Thread -> id: e00 -> priority: 1 

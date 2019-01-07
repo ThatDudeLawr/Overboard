@@ -1,0 +1,66 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.778 seconds
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\ubisoft.org\bucstudio\Internship2018\Builds\Overboard\Overboard_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5520x1118 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'TutorialManager') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 3.104100 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2664 -> priority: 1 
+  Thread -> id: 1c54 -> priority: 1 
+  Thread -> id: 1e90 -> priority: 1 
+  Thread -> id: 34d8 -> priority: 1 
+  Thread -> id: 42ec -> priority: 1 
+  Thread -> id: 3360 -> priority: 1 
+Playing: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Playing: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.392100 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 10539.
+Total: 6.096000 ms (FindLiveObjects: 0.693400 ms CreateObjectMapping: 0.262900 ms MarkObjects: 5.057800 ms  DeleteObjects: 0.080800 ms)
+
+Tile: ShipTileBarrel(Clone) (ShipTile)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Particle sistem manager: null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Particle sistem created: LightingStrike(Clone) (UnityEngine.ParticleSystem)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
